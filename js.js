@@ -1,3 +1,4 @@
 let name = "prathap";
 let number = 3;
-console.log(name + number)
+let number1 = 4
+console.log(name + number + number1)
